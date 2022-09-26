@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "16341dd70b4de02b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffca52bbe2cc5b60",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Вопросы.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2070ab352618898e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b596ce52901359ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63c51cba6f26f8b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d38bb8bfa4624b52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f871e165d22d0ffc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1f83e2ca1141635",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cb215fe61981285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc215fbd49457c41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вопросы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b6cc774b4ef53a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Вопросы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c165323e616d5b31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc086bdafa506101",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вопросы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ffca52bbe2cc5b60",
+  "lastOpenFiles": [
+    "Как изменить размер сервера?.md",
+    "Как кикнуть чела с сервера.md",
+    "Контейнеры в роблокс.md",
+    "Untitled.md",
+    "Вопросы.md"
+  ]
+}
